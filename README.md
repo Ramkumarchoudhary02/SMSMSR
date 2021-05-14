@@ -1,6 +1,6 @@
 # smsmsr
 #include <iostream>
-int main7()
+int main()
 {
 	
 	std::cout << " enter two numbers " << std::endl;
